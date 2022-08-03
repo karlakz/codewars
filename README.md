@@ -1,6 +1,6 @@
 # codewars
 
-Repository with solutions from Codewars platform
+Repository with solutions from Codewars platform in JavaScript
 
 ## Table of contents:
 
